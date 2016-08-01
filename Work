@@ -1,2 +1,12 @@
 <!doctype html>
 <h1>Work</h1>
+<style>
+  h1 {
+    font-family: 'Catamaran', sans-serif;
+    color: mistyRose;
+    font-size: 50px;
+  }
+</style>
+<img src="/LaCroix Glass Bottless.jpg" width="500px">
+<img src="/ASPCA ADd3.jpg" width="500px">
+<img src="/MENU FRONT.jpg" width="500px">
