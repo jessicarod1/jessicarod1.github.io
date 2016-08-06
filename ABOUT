@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<title>Jessica R. | Work </title>
+<head>
+ <link href='https://fonts.googleapis.com/css?family=Mukta+Vaani:300' rel='stylesheet' type='text/css'>
+  <style>
+    body {
+      text-align: center;
+      margin: 0;
+      font-family: 'Mukta Vaani', sans-serif;
+      background-image: url("jessicarod1.github.io/PINKBACKGROUND.jpg");
+      background-size: 1400px;
+      background-repeat: repeat;
+    }
+        h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 50px;
+    margin-top: 0px;
+  }
+    #logo {
+    text-align: left;
+  }
+  img {
+   text-align: center;
+  }
+       a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+  }
+    footer {
+ background-color: rgba(61, 56, 56, 0.68);
+ color: White;
+ text-align: left;
+ height: 53px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+    }
+  h2 {
+    font-size: 30px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+  }
+  #home {
+   background-color: rgba(208, 208, 208, 0.58);
+   color:white;
+   height: 59px;
+   width: 1060px;
+   text-align: left;
+   margin-top: 0px;
+   margin-bottom: 0px;
+  }
+    #about {
+   background-color: rgba(128, 128, 128, 0.6);
+   color:white;
+   height: 59px;
+   width: 1190px;
+   text-align: left;
+   margin-top: 0px;
+   margin-bottom: 0px;
+    }
+</style>
+</head>
+<body>
+ <header>
+<section id="logo">
+<img src="jessicarod1.github.io/WHITEWEBLOGO.png" height="180">
+</section>
+</header>
+<h1>A B O U T</h1>
+<img src="jessicarod1.github.io/MYPIC.png"
+<p> My name is Jessica Rodriguez, I am an advertising student from El Salvador living in Miami.<br>
+I am 22 years old and I am about to graduate from Miami International University of Art & Design in December.<br>
+I am passionated about Advertising, art and design. I would like to one day become an art director or creative director.<br>
+In this website I am sharing some of my current work. Enjoy!
+</body>
+</html>
