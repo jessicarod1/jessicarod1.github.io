@@ -33,11 +33,7 @@
     margin-top: 0px;
     color: black;
   }
-    @media (min-width: 768px) { 
-  	h1 {
-	    font-size: 50px;
-  	}
-  }
+    
     
     #logo {
     text-align: left;
@@ -89,6 +85,33 @@
     header {
          height: 151px;
     }
+	.iframe-jess {
+		width:300px;
+		height:620px;
+	  }
+	  @media (min-width: 768px) { 
+  		h1 {
+	    	font-size: 50px;
+  		}
+		  .iframe-jess {
+			width:700px;
+			height:620px;
+	  	}
+  	}
+	  @media (min-width: 992px) {
+		  .iframe-jess {
+			width:800px;
+			height:620px;
+	  	}
+	  }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	  .iframe-jess {
+			width:1170px;
+			height:620px;
+	  	}
+	  }
 </style>
     <header>
       <section id="logo">
@@ -100,7 +123,7 @@
 </header>
  <body>
 <h1>P O R T F O L I O</h1>
-   <iframe style="width:1200px;height:620px" src="http://online.anyflip.com/pfpa/gpxv/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+   <iframe class="iframe-jess" src="http://online.anyflip.com/pfpa/gpxv/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
    <a href="http://jessicar-advertising.me/RESUME.html"
 target="_blank"><h2> SEE MY RESUME </h2> </a>
       </body>
